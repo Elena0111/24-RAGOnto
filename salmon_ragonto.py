@@ -527,7 +527,7 @@ dataset_dict
 
 import os
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = ""
 
 import nest_asyncio
 
